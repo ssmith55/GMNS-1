@@ -29,7 +29,7 @@
         {
             "name": "boundary",
             "type": "any",
-            "description": "Optional. The polygon geometry of the zone."
+            "description": "Optional. The polygon geometry of the zone, in well known text format."
         },
         {
             "name": "super_zone",
